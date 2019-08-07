@@ -1,0 +1,6 @@
+C:\Users\sanjaykumarp\source\repos\WordConverterUtility\WordConverterUtility\obj\Debug\WordConverterUtility.csproj.CoreCompileInputs.cache
+C:\Users\sanjaykumarp\source\repos\WordConverterUtility\WordConverterUtility\bin\Debug\WordConverterUtility.exe.config
+C:\Users\sanjaykumarp\source\repos\WordConverterUtility\WordConverterUtility\bin\Debug\WordConverterUtility.exe
+C:\Users\sanjaykumarp\source\repos\WordConverterUtility\WordConverterUtility\bin\Debug\WordConverterUtility.pdb
+C:\Users\sanjaykumarp\source\repos\WordConverterUtility\WordConverterUtility\obj\Debug\WordConverterUtility.exe
+C:\Users\sanjaykumarp\source\repos\WordConverterUtility\WordConverterUtility\obj\Debug\WordConverterUtility.pdb
